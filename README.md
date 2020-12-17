@@ -1,10 +1,10 @@
-# Good-Readme-Generator 
-  
-  [![Generic badge](https://img.shields.io/badge/<License>-<MIT>-<COLOR>.svg)](https://shields.io/)
+# Good-Readme-Generator  
+
+  [![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg)](https://shields.io/)
 
   ##  Description
   
-  The Good-Readme-Generator will be used to create high quality readme.md files quickly and easily. With this application I can input my projects info when prompted in the terminal using node. I can then save the info and add it into a new readme.md file.
+   The Good-Readme-Generator will be used to create high quality readme.md files quickly and easily. With this application I can input my projects info when prompted in the terminal using node. I can then save the info and add it into a new readme.md file.
 
 
   ## Table Of Contents
@@ -24,7 +24,7 @@
 
   ## Credits
 
-  N/A
+   N/A
 
   ## Test
 
