@@ -1,10 +1,10 @@
-# matts project 
+# good Readme Generator 
 
   ##  Description
 
-  this is a readme
+  it does stuff
   
-  ![badge](https://img.shields.io/badge/license--brightgreen)<br />
+  ![badge](https://img.shields.io/badge/license-MIT License-brightgreen)<br />
 
   ## Table Of Contents
 
@@ -15,23 +15,23 @@
 
   ## Installation
 
-  use mpt to install 
+  uhhh
 
   ## Usage
 
-  use this project to create a readme
+  shh
 
   ## Credits
 
-  me
+  me myself I
 
   ## Test
 
-    use node index to initiate
+    node index
 
   ## License
 
-  
+  MIT License
 
   ## Github Profile
 
@@ -39,4 +39,4 @@
 
   ## Email 
 
-  marchand@
+  marchy

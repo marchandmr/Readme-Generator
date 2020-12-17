@@ -35,13 +35,15 @@ function generateMarkdown(data) {
 
   ${data.license}
 
-  ## Github Profile
+## Questions
 
-  ${data.Github}
+  for any questions or inquiries  please feel free to message me on Github at: ${data.Github}
 
-  ## Email 
+  or you can send me an E-mail :  ${data.Email}
 
-  ${data.Email}
+ 
+
+ 
 `;
 }
 
