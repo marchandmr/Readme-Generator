@@ -1,10 +1,10 @@
-# Good-Readme-Generator 
+# Good-Readme-Generator  
 
   ##  Description
 
   The Good-Readme-Generator will be used to create high quality readme.md files quickly and easily. With this application I can input my projects info when prompted in the terminal using node. I can then save the info and add it into a new readme.md file.
- 
-  ![GitHub](https://img.shields.io/github/license/https://github.com/marchandmr/Good-Readme-Generator)
+
+  [![Generic badge](https://img.shields.io/badge/<License>-<MIT License>-<COLOR>.svg)](https://shields.io/)
 
   ## Table Of Contents
 
@@ -15,7 +15,7 @@
 
   ## Installation
 
-  use npm install to install inquirer
+   use npm install to install inquirer
 
   ## Usage
 
@@ -35,7 +35,7 @@
 
 ## Questions
 
-  for any questions or inquiries  please feel free to message me on Github at: https://github.com/marchandmr
+  for any questions or inquiries  please feel free to message me on Github at:  https://github.com/marchandmr
 
   or you can send me an E-mail :  marchandmr@icloud.com
 
