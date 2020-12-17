@@ -45,11 +45,11 @@ const questions = () =>
                 type: 'checkbox',
                 name: 'license',
                 message: 'Choose a license',
-                default: 'MIT License',
+                default: 'MIT',
                 choices: [
-                    'MIT License',
-                    'Apache License 2.0',
-                    'GNU GPLv3'
+                    'MIT',
+                    'Apache-2.0',
+                    'GNU-GPLv3'
                 ]
             },
             {
