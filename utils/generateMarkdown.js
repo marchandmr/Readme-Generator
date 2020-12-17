@@ -5,8 +5,8 @@ function generateMarkdown(data) {
   ##  Description
 
   ${data.description}
- 
-  ![GitHub](https://img.shields.io/github/license/${data.Github}/${data.name})
+
+  [![Generic badge](https://img.shields.io/badge/<License>-<${data.license}>-<COLOR>.svg)](https://shields.io/)
 
   ## Table Of Contents
 
