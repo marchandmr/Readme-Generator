@@ -6,7 +6,7 @@ function generateMarkdown(data) {
 
   ${data.description}
   
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
+  ![badge](https://img.shields.io/github/languages/top/${data.Github}/${data.license}?style=flat&logo=appveyor) 
 
   ## Table Of Contents
 

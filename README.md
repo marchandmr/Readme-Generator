@@ -1,10 +1,10 @@
-# good Readme Generator 
+#  Good-Readme-Generator 
 
   ##  Description
 
-  it does stuff
+  The Good-Readme-Generator will be used to create high quality readme.md files quickly and easily. With this application I can input my projects info when prompted in the terminal using node. I can then save the info and add it into a new readme.md file.
   
-  ![badge](https://img.shields.io/badge/license-MIT License-brightgreen)<br />
+  ![badge](https://img.shields.io/github/languages/top/https://github.com/marchandmr/MIT License?style=flat&logo=appveyor) 
 
   ## Table Of Contents
 
@@ -15,28 +15,30 @@
 
   ## Installation
 
-  uhhh
+  use npm install to install inquirer
 
   ## Usage
 
-  shh
+  used to create a new Readme.md file
 
   ## Credits
 
-  me myself I
+  no contributors
 
   ## Test
 
-    node index
+    to test use node index and fill out the prompt
 
   ## License
 
   MIT License
 
-  ## Github Profile
+## Questions
 
-  marchandmr
+  for any questions or inquiries  please feel free to message me on Github at: https://github.com/marchandmr
 
-  ## Email 
+  or you can send me an E-mail :  marchandmr@icloud.com
 
-  marchy
+ 
+
+ 
